@@ -1,0 +1,36 @@
+============================================================
+SWING ANALYSIS REPORT
+============================================================
+
+Overall Swing Score: 54.7/100
+Grade: F
+
+Component Scores:
+----------------------------------------
+  Swing Plane Consistency.......  67.5/100 [█████████████░░░░░░░]
+  Rotation Quality..............  20.0/100 [████░░░░░░░░░░░░░░░░]
+  Downswing Alignment...........  70.0/100 [██████████████░░░░░░]
+  Wrist Hinge...................  38.5/100 [███████░░░░░░░░░░░░░]
+  Weight Transfer............... 100.0/100 [████████████████████]
+  Tempo.........................  40.6/100 [████████░░░░░░░░░░░░]
+
+Strengths:
+----------------------------------------
+  ✓ Effective weight transfer (100/100)
+
+Areas for Improvement:
+----------------------------------------
+  ⚠ Improve body rotation - focus on shoulder turn over hip turn (20/100)
+  ⚠ Better wrist hinge needed - practice wrist cock drills (39/100)
+  ⚠ Adjust swing tempo - aim for 3:1 backswing to downswing ratio (41/100)
+
+Detailed Metrics:
+----------------------------------------
+  Swing Plane Angle: 26.7° (ideal: 45.0°)
+  Plane Consistency: 86.4/100
+  Max Shoulder Rotation: 177.3°
+  Max Hip Rotation: 179.2°
+  Weight Shift: 50.00%
+  Tempo Ratio: 0.03:1 (backswing:downswing)
+
+============================================================

@@ -1,0 +1,33 @@
+[
+  {
+    "session_id": "20251205_185133",
+    "timestamp": "2025-12-05T18:51:33.395259",
+    "video_path": "./data/videos/test_video.mp4",
+    "overall_score": 54.72,
+    "grade": "F",
+    "component_scores": {
+      "swing_plane_consistency": 67.48,
+      "rotation_quality": 20.0,
+      "downswing_alignment": 70.0,
+      "wrist_hinge": 38.54,
+      "weight_transfer": 100,
+      "tempo": 40.65
+    },
+    "strengths": [
+      "Effective weight transfer (100/100)"
+    ],
+    "areas_for_improvement": [
+      "Improve body rotation - focus on shoulder turn over hip turn (20/100)",
+      "Better wrist hinge needed - practice wrist cock drills (39/100)",
+      "Adjust swing tempo - aim for 3:1 backswing to downswing ratio (41/100)"
+    ],
+    "swing_plane_angle": 26.735042432253888,
+    "max_shoulder_rotation": 177.33751533313645,
+    "max_hip_rotation": 179.16447335689423,
+    "weight_shift": 0.5,
+    "tempo_ratio": 0.03225806451612903,
+    "errors": [
+      "over_the_top"
+    ]
+  }
+]
